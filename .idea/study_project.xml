@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="StudySettings">
+    <StudyTaskManager>
+      <option name="VERSION" value="16" />
+      <option name="myUserTests">
+        <map />
+      </option>
+      <option name="course">
+        <HyperskillCourse>
+          <option name="authors">
+            <list />
+          </option>
+          <option name="courseMode" value="Study" />
+          <option name="customPresentableName" />
+          <option name="description" value="Here, at the beginning of your programmer’s path, you will need a console bot that will guide you through the basics of software development. During this journey you will also play some word and number games that you are going to implement by yourself. Pack up and hit the road, my friend!&lt;br/&gt;&lt;br/&gt;Learn more at &lt;a href=&quot;https://hyperskill.org&quot;&gt;https://hyperskill.org/projects/31&lt;/a&gt;" />
+          <option name="environment" value="" />
+          <option name="id" value="0" />
+          <option name="index" value="-1" />
+          <option name="language" value="JAVA 11" />
+          <option name="languageCode" value="en" />
+          <option name="name" value="Simple Chatty Bot" />
+          <option name="stages">
+            <list>
+              <HyperskillStage>
+                <option name="id" value="165" />
+                <option name="stepId" value="5107" />
+                <option name="title" value="Hello! What’s your name?" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="166" />
+                <option name="stepId" value="5108" />
+                <option name="title" value="How old are you?" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="167" />
+                <option name="stepId" value="5109" />
+                <option name="title" value="Let’s count!" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="168" />
+                <option name="stepId" value="5110" />
+                <option name="title" value="The student and the teacher" />
+              </HyperskillStage>
+            </list>
+          </option>
+          <option name="taskToTopics">
+            <map>
+              <entry key="0">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="15" />
+                      <option name="theoryId" value="3500" />
+                      <option name="title" value="Introduction to Java" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="147" />
+                      <option name="theoryId" value="3522" />
+                      <option name="title" value="Basic literals" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="148" />
+                      <option name="theoryId" value="3521" />
+                      <option name="title" value="The first program" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="193" />
+                      <option name="theoryId" value="3749" />
+                      <option name="title" value="Printing data" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="1">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="480" />
+                      <option name="theoryId" value="6577" />
+                      <option name="title" value="Command line overview" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="14" />
+                      <option name="theoryId" value="3518" />
+                      <option name="title" value="Types and variables" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="30" />
+                      <option name="theoryId" value="3520" />
+                      <option name="title" value="Comments" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="112" />
+                      <option name="theoryId" value="3513" />
+                      <option name="title" value="Naming variables" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="146" />
+                      <option name="theoryId" value="3519" />
+                      <option name="title" value="Arithmetic operations" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="191" />
+                      <option name="theoryId" value="3739" />
+                      <option name="title" value="Write, compile and run" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="149" />
+                      <option name="theoryId" value="3499" />
+                      <option name="title" value="JVM, JRE and JDK" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="192" />
+                      <option name="theoryId" value="3746" />
+                      <option name="title" value="Running programs on your computer" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="113" />
+                      <option name="theoryId" value="3603" />
+                      <option name="title" value="Scanning the input" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="27" />
+                      <option name="theoryId" value="3565" />
+                      <option name="title" value="Integer types and operations" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="307" />
+                      <option name="theoryId" value="5008" />
+                      <option name="title" value="Increment and decrement" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="31" />
+                      <option name="theoryId" value="3514" />
+                      <option name="title" value="Characters" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="9" />
+                      <option name="theoryId" value="3523" />
+                      <option name="title" value="String" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="2">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="87" />
+                      <option name="theoryId" value="3516" />
+                      <option name="title" value="Boolean and logical operations" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="88" />
+                      <option name="theoryId" value="3512" />
+                      <option name="title" value="Relational operators" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="25" />
+                      <option name="theoryId" value="3503" />
+                      <option name="title" value="Conditional statement" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="89" />
+                      <option name="theoryId" value="3505" />
+                      <option name="title" value="The for-loop" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="3">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="502" />
+                      <option name="theoryId" value="6865" />
+                      <option name="title" value="Units of information" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="362" />
+                      <option name="theoryId" value="5544" />
+                      <option name="title" value="Binary numbers" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="161" />
+                      <option name="theoryId" value="3532" />
+                      <option name="title" value="Sizes and ranges" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="32" />
+                      <option name="theoryId" value="3510" />
+                      <option name="title" value="Type casting" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="90" />
+                      <option name="theoryId" value="3498" />
+                      <option name="title" value="The while and do-while loops" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="19" />
+                      <option name="theoryId" value="3507" />
+                      <option name="title" value="Branching statements" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="94" />
+                      <option name="theoryId" value="3590" />
+                      <option name="title" value="Defining methods" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="updateDate" value="0" />
+          <option name="hyperskillProject">
+            <HyperskillProject>
+              <option name="description" value="Here, at the beginning of your programmer’s path, you will need a console bot that will guide you through the basics of software development. During this journey you will also play some word and number games that you are going to implement by yourself. Pack up and hit the road, my friend!" />
+              <option name="id" value="31" />
+              <option name="ideFiles" value="https://stepik.org/media/attachments/lesson/198194/additional_files.json" />
+              <option name="language" value="java" />
+              <option name="templateBased" value="true" />
+              <option name="title" value="Simple Chatty Bot" />
+              <option name="useIde" value="true" />
+            </HyperskillProject>
+          </option>
+          <option name="items">
+            <list>
+              <FrameworkLesson>
+                <option name="currentTaskIndex" value="3" />
+                <option name="customPresentableName" />
+                <option name="id" value="0" />
+                <option name="index" value="1" />
+                <option name="name" value="Simple Chatty Bot" />
+                <option name="updateDate" value="0" />
+                <option name="unitId" value="0" />
+                <option name="items">
+                  <list>
+                    <EduTask>
+                      <option name="customPresentableName" value="stage1" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2 style=&quot;text-align: center;&quot;&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;Digital personal assistants help people to drive cars, plan their day, buy something online. In a sense, they are simplified versions of artificial intelligence with whom you can talk.&lt;/p&gt;&#10;&#10;&lt;p&gt;In this project, you will develop step by step a simple bot which will help you to study programming.&lt;/p&gt;&#10;&#10;&lt;p&gt;For the first stage, you will write a bot who displays a greeting, its name and the date of its creation.&lt;/p&gt;&#10;&#10;&lt;p&gt;Your program must print the following lines:&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-xml&quot;&gt;Hello! My name is {botName}.&#10;I was created in {birthYear}.&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;Instead of &lt;code&gt;{botName}&lt;/code&gt; print any name you choose and replace &lt;code&gt;{birthYear}&lt;/code&gt; with the current year (four digits), ex:&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-xml&quot;&gt;Hello! My name is Aid.&#10;I was created in 2018.&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;You can change the text if you need but print exactly two lines.&lt;/p&gt;&#10;&#10;&lt;p&gt;Next, we will use &lt;strong&gt;Aid&lt;/strong&gt; and &lt;strong&gt;2018&lt;/strong&gt; as your assistant's name and its birth year, but you can change it if you want.&lt;/p&gt;&#10;&#10;&lt;p&gt;You can ignore the &lt;code&gt;pakage bot;&lt;/code&gt; line, you'll find out what it means later.&lt;/p&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/31/stages/165/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5107" />
+                      <option name="index" value="1" />
+                      <option name="name" value="Hello! What’s your name?" />
+                      <option name="record" value="1" />
+                      <option name="status" value="Failed" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/bot/SimpleBot.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/bot/SimpleBot.java" />
+                                <option name="text" value="package bot;&#10;&#10;public class SimpleBot {&#10;    public static void main(String[] args) {&#10;        // write your code here&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/PersonalAssistantTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/PersonalAssistantTest.java" />
+                                <option name="text" value="import bot.SimpleBot;&#10;import org.hyperskill.hstest.v6.testcase.CheckResult;&#10;import org.hyperskill.hstest.v6.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v6.testcase.TestCase;&#10;&#10;import java.util.List;&#10;&#10;&#10;public class PersonalAssistantTest extends BaseStageTest {&#10;&#10;    public PersonalAssistantTest() {&#10;        super(SimpleBot.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&gt; generate() {&#10;        return List.of(&#10;            new TestCase&lt;&gt;()&#10;        );&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, Object clue) {&#10;&#10;        String[] lines = reply.trim().split(&quot;\n&quot;);&#10;&#10;        if (lines.length != 2) {&#10;            return CheckResult.FALSE(&#10;                &quot;You should output exactly 2 lines!\n&quot; +&#10;                &quot;Lines found: &quot; + lines.length&#10;            );&#10;        }&#10;&#10;        String secondLine = lines[1];&#10;&#10;        if (!secondLine.matches(&quot;.*\\d.*&quot;)) {&#10;            return CheckResult.FALSE(&#10;                &quot;The second line should contain a year!\n&quot; +&#10;                &quot;Your second line: \&quot;&quot; + secondLine + &quot;\&quot;&quot;&#10;            );&#10;        }&#10;&#10;        return CheckResult.TRUE;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" value="stage2" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2 style=&quot;text-align: center;&quot;&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;At this stage, you will introduce yourself to the bot. He will greet you by your name and then try to guess your age using arithmetic operations.&lt;/p&gt;&#10;&#10;&lt;p&gt;Your program must print the following lines:&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-xml&quot;&gt;Hello! My name is Aid.&#10;I was created in 2018.&#10;Please, remind me your name.&#10;What a great name you have, {yourName}!&#10;Let me guess your age.&#10;Enter remainders of dividing your age by 3, 5 and 7.&#10;Your age is 22; that's a good time to start programming!&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;You may change the name and the creation year of your bot if you want.&lt;/p&gt;&#10;&#10;&lt;p&gt;Instead of &lt;code&gt;{yourName}&lt;/code&gt;, the bot must print your name entered from the standard input. Instead of &lt;code&gt;{yourAge}&lt;/code&gt;, the bot must determine your age according to the following formula:&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;age = (remainder3 * 70 + remainder5 * 21 + remainder7 * 15) % 105&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;Where &lt;code&gt;remainder3&lt;/code&gt;, &lt;code&gt;remainder5&lt;/code&gt; and &lt;code&gt;remainder7&lt;/code&gt; is three numbers you input to the program.&lt;/p&gt;&#10;&#10;&lt;p&gt;Here is an example of a dialogue with the bot. Input lines are started with &quot;&amp;gt;&quot; symbol. You do not need to read this symbol.&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-xml&quot;&gt;Hello! My name is Aid.&#10;I was created in 2018.&#10;Please, remind me your name.&#10;&amp;gt; Max&#10;What a great name you have, Max!&#10;Let me guess your age.&#10;Say me remainders of dividing your age by 3, 5 and 7.&#10;&amp;gt; 1 2 1&#10;Your age is 22; that's a good time to start programming!&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;Use the provided template to simplify your work. You can change the text, but not the number of printed lines.&lt;/p&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/31/stages/166/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5108" />
+                      <option name="index" value="2" />
+                      <option name="name" value="How old are you?" />
+                      <option name="record" value="2" />
+                      <option name="status" value="Unchecked" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/bot/SimpleBot.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/bot/SimpleBot.java" />
+                                <option name="text" value="package bot;&#10;&#10;import java.util.Scanner;&#10;&#10;public class SimpleBot {&#10;    public static void main(String[] args) {&#10;        Scanner scanner = new Scanner(System.in);&#10;&#10;        System.out.println(&quot;Hello! My name is Aid.&quot;);&#10;        System.out.println(&quot;I was created in 2018.&quot;);&#10;        System.out.println(&quot;Please, remind me your name.&quot;);&#10;&#10;        // reading a name&#10;&#10;        System.out.println(&quot;What a great name you have, {yourName}!&quot;);&#10;        System.out.println(&quot;Let me guess your age.&quot;);&#10;        System.out.println(&quot;Enter remainders of dividing your age by 3, 5 and 7.&quot;);&#10;&#10;        // reading all remainders&#10;&#10;        System.out.println(&quot;Your age is {yourAge}; that's a good time to start programming!&quot;);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/PersonalAssistantTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/PersonalAssistantTest.java" />
+                                <option name="text" value="import bot.SimpleBot;&#10;import org.hyperskill.hstest.v6.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v6.testcase.CheckResult;&#10;import org.hyperskill.hstest.v6.testcase.TestCase;&#10;&#10;import java.util.List;&#10;&#10;&#10;class Clue {&#10;    int age;&#10;    String name;&#10;&#10;    Clue(String name, int age) {&#10;        this.age = age;&#10;        this.name = name;&#10;    }&#10;}&#10;&#10;&#10;public class PersonalAssistantTest extends BaseStageTest&lt;Clue&gt; {&#10;&#10;    public PersonalAssistantTest() {&#10;        super(SimpleBot.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;Clue&gt;&gt; generate() {&#10;        return List.of(&#10;            new TestCase&lt;Clue&gt;()&#10;                .setInput(&quot;John\n1 2 1&quot;)&#10;                .setAttach(new Clue(&quot;John&quot;, 22)),&#10;&#10;            new TestCase&lt;Clue&gt;()&#10;                .setInput(&quot;Nick\n2 0 0&quot;)&#10;                .setAttach(new Clue(&quot;Nick&quot;, 35))&#10;        );&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, Clue clue) {&#10;&#10;        String[] lines = reply.trim().split(&quot;\n&quot;);&#10;&#10;        if (lines.length != 7) {&#10;            return CheckResult.FALSE(&#10;                &quot;You should output 7 lines. Lines found: &quot; + lines.length + &quot;\n&quot; +&#10;                &quot;Your output:\n&quot; +&#10;                reply&#10;            );&#10;        }&#10;&#10;        String lineWithName = lines[3].toLowerCase();&#10;        String name = clue.name.toLowerCase();&#10;&#10;        if (!lineWithName.contains(name)) {&#10;            return CheckResult.FALSE(&#10;                &quot;The name was &quot; + clue.name + &quot;\n&quot; +&#10;                &quot;But the 4-th line was:\n&quot; +&#10;                &quot;\&quot;&quot; + lines[3] + &quot;\&quot;\n\n&quot; +&#10;                &quot;4-th line should contain a name of the user&quot;&#10;            );&#10;        }&#10;&#10;        String lineWithAge = lines[6].toLowerCase();&#10;        String age = Integer.toString(clue.age);&#10;&#10;        if (!lineWithAge.contains(age)) {&#10;            return CheckResult.FALSE(&#10;                &quot;Can't find a correct age &quot; +&#10;                &quot;in the last line of output! &quot; +&#10;                &quot;Maybe you calculated the age wrong?\n\n&quot; +&#10;                &quot;Your last line: \n&quot; + &quot;\&quot;&quot; + lines[6] + &quot;\&quot;&quot;&#10;            );&#10;        }&#10;&#10;        return CheckResult.TRUE;&#10;    }&#10;&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" value="stage3" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2 style=&quot;text-align: center;&quot;&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;At this stage, you will program the bot to count from 0 to any positive number you entered.&lt;/p&gt;&#10;&#10;&lt;p&gt;Here is an example of a dialogue with the new version of the bot. Input lines are started with &quot;&amp;gt;&quot; symbol.&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Hello! My name is Aid.&#10;I was created in 2018.&#10;Please, remind me your name.&#10;&amp;gt; Max​​​​​​​&#10;What a great name you have, Max!&#10;Let me guess your age.&#10;Say me remainders of dividing your age by 3, 5 and 7.&#10;&amp;gt; 1 2 1&#10;Your age is 22; that's a good time to start programming!&#10;Now I will prove to you that I can count to any number you want.&#10;&amp;gt; 5&#10;0!&#10;1!&#10;2!&#10;3!&#10;4!&#10;5!&#10;Completed, have a nice day!&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;&lt;strong&gt;Note, &lt;/strong&gt;each number starts with a new line, and after a number, the bot should print the exclamation mark. Do not output any extra characters in these lines with numbers.&lt;/p&gt;&#10;&#10;&lt;p&gt;Use the provided template to simplify your work. You can change the text if you want, but be especially careful with counting numbers.&lt;/p&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/31/stages/167/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5109" />
+                      <option name="index" value="3" />
+                      <option name="name" value="Let’s count!" />
+                      <option name="record" value="3" />
+                      <option name="status" value="Unchecked" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/bot/SimpleBot.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/bot/SimpleBot.java" />
+                                <option name="text" value="package bot;&#10;&#10;import java.util.Scanner;&#10;&#10;public class SimpleBot {&#10;    public static void main(String[] args) {&#10;        Scanner scanner = new Scanner(System.in);&#10;&#10;        System.out.println(&quot;Hello! My name is Aid.&quot;);&#10;        System.out.println(&quot;I was created in 2018.&quot;);&#10;        System.out.println(&quot;Please, remind me your name.&quot;);&#10;&#10;        String name = scanner.nextLine();&#10;&#10;        System.out.println(&quot;What a great name you have, &quot; + name + &quot;!&quot;);&#10;        System.out.println(&quot;Let me guess your age.&quot;);&#10;        System.out.println(&quot;Enter remainders of dividing your age by 3, 5 and 7.&quot;);&#10;&#10;        int rem3 = scanner.nextInt();&#10;        int rem5 = scanner.nextInt();&#10;        int rem7 = scanner.nextInt();&#10;&#10;        int age = (rem3 * 70 + rem5 * 21 + rem7 * 15) % 105;&#10;&#10;        System.out.println(&quot;Your age is &quot; + age + &quot;; that's a good time to start programming!&quot;);&#10;        System.out.println(&quot;Now I will prove to you that I can count to any number you want.&quot;);&#10;&#10;        // read a number and count to it here&#10;&#10;        System.out.println(&quot;Completed, have a nice day!&quot;);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/PersonalAssistantTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/PersonalAssistantTest.java" />
+                                <option name="text" value="import bot.SimpleBot;&#10;import org.hyperskill.hstest.v6.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v6.testcase.CheckResult;&#10;import org.hyperskill.hstest.v6.testcase.TestCase;&#10;&#10;import java.util.List;&#10;&#10;&#10;class Clue {&#10;    int age;&#10;    String name;&#10;    int count;&#10;&#10;    Clue(String name, int age, int count) {&#10;        this.age = age;&#10;        this.name = name;&#10;        this.count = count;&#10;    }&#10;}&#10;&#10;&#10;public class PersonalAssistantTest extends BaseStageTest&lt;Clue&gt; {&#10;&#10;    public PersonalAssistantTest() {&#10;        super(SimpleBot.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;Clue&gt;&gt; generate() {&#10;        return List.of(&#10;            new TestCase&lt;Clue&gt;()&#10;                .setInput(&quot;Marry\n1 0 5\n10&quot;)&#10;                .setAttach(new Clue(&quot;Marry&quot;, 40, 10))&#10;        );&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, Clue clue) {&#10;&#10;        String[] lines = reply.trim().split(&quot;\n&quot;);&#10;&#10;        int length = 9 + clue.count + 1;&#10;&#10;        if (lines.length != length) {&#10;            return CheckResult.FALSE(&#10;                &quot;You should output &quot; + length + &quot; lines &quot; +&#10;                &quot;(for the count number &quot; + clue.count +&quot;).\n&quot; +&#10;                &quot;Lines found: &quot; + lines.length + &quot;\n&quot; +&#10;                &quot;Your output:\n&quot; +&#10;                reply&#10;            );&#10;        }&#10;&#10;        String lineWithName = lines[3].toLowerCase();&#10;        String name = clue.name.toLowerCase();&#10;&#10;        if (!lineWithName.contains(name)) {&#10;            return CheckResult.FALSE(&#10;                &quot;The name was &quot; + clue.name + &quot;\n&quot; +&#10;                &quot;But the 4-th line was:\n&quot; +&#10;                &quot;\&quot;&quot; + lines[3] + &quot;\&quot;\n\n&quot; +&#10;                &quot;4-th line should contain a name of the user&quot;&#10;            );&#10;        }&#10;&#10;        String lineWithAge = lines[6].toLowerCase();&#10;        String age = Integer.toString(clue.age);&#10;&#10;        if (!lineWithAge.contains(age)) {&#10;            return CheckResult.FALSE(&#10;                &quot;Can't find a correct age &quot; +&#10;                &quot;in the last line of output! &quot; +&#10;                &quot;Maybe you calculated the age wrong?\n\n&quot; +&#10;                &quot;Your last line: \n&quot; + &quot;\&quot;&quot; + lines[6] + &quot;\&quot;&quot;&#10;            );&#10;        }&#10;&#10;        for (int i = 0; i &lt; clue.count + 1; i++) {&#10;            String numLine = lines[i + 8];&#10;            String actualNum = i + &quot;!&quot;;&#10;&#10;            if (!numLine.equals(actualNum)) {&#10;                return CheckResult.FALSE(&#10;                    &quot;Expected &quot; + (i+8) + &quot;-th line: \n&quot; +&#10;                    &quot;\&quot;&quot; + actualNum + &quot;\&quot;\n&quot; +&#10;                    &quot;Your &quot;+ (i+8) + &quot;-th line: \n&quot; +&#10;                    &quot;\&quot;&quot; + numLine + &quot;\&quot;&quot;&#10;                );&#10;            }&#10;        }&#10;&#10;        return CheckResult.TRUE;&#10;    }&#10;&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" value="stage4" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2 style=&quot;text-align: center;&quot;&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;At this stage, you will improve your simple bot so that it can give you a test and check your answers. The test should be about programming. Your bot has to continue to ask the test until you answer correctly.&lt;/p&gt;&#10;&#10;&lt;p&gt;Your bot can ask anything you want, but there are two rules for your output:&lt;/p&gt;&#10;&#10;&lt;ul&gt;&#10;&#9;&lt;li&gt;the line with the test should end with the question mark character;&lt;/li&gt;&#10;&#9;&lt;li&gt;an option starts with a digit followed by the dot (&lt;code&gt;1.&lt;/code&gt;, &lt;code&gt;2.&lt;/code&gt;, &lt;code&gt;3.&lt;/code&gt;, &lt;code&gt;4.&lt;/code&gt;)&lt;/li&gt;&#10;&lt;/ul&gt;&#10;&#10;&lt;p&gt;If a user enters an incorrect answer, the bot may print a message:&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;Please, try again.&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;Here is an example of a dialogue with the new version of the bot. Input lines are started with &quot;&amp;gt;&quot; symbol.&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Hello! My name is Aid.&#10;I was created in 2018.&#10;Please, remind me your name.&#10;&amp;gt; Max&#10;What a great name you have, Max!&#10;Let me guess your age.&#10;Say me remainders of dividing your age by 3, 5 and 7.&#10;&amp;gt; 1 2 1&#10;Your age is 22: that's a good time to start programming!&#10;Now I will prove to you that I can count to any number you want.&#10;&amp;gt; 3&#10;0!&#10;1!&#10;2!&#10;3!&#10;Let's test your programming knowledge.&#10;Why do we use methods?&#10;1. To repeat a statement multiple times.&#10;2. To decompose a program into several small subroutines.&#10;3. To determine the execution time of a program.&#10;4. To interrupt the execution of a program.&#10;&amp;gt; 4&#10;Please, try again.&#10;&amp;gt; 2&#10;Congratulations, have a nice day!&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;The program must end with the &lt;strong&gt;Congratulations, have a nice day!&lt;/strong&gt; message.&lt;/p&gt;&#10;&#10;&lt;p&gt;Use the provided template to simplify your work. You can change the text if you want. Please note that we use methods to make it easy to understand the program and add to or edit later.&lt;/p&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/31/stages/168/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5110" />
+                      <option name="index" value="4" />
+                      <option name="name" value="The student and the teacher" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/bot/SimpleBot.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/bot/SimpleBot.java" />
+                                <option name="text" value="package bot;&#10;&#10;import java.util.Scanner;&#10;&#10;public class SimpleBot {&#10;    final static Scanner scanner = new Scanner(System.in); // Do not change this line&#10;&#10;    public static void main(String[] args) {&#10;        greet(&quot;Aid&quot;, &quot;2018&quot;); // change it as you need&#10;        remindName();&#10;        guessAge();&#10;        count();&#10;        // ...&#10;        end();&#10;    }&#10;&#10;    static void greet(String assistantName, String birthYear) {&#10;        System.out.println(&quot;Hello! My name is &quot; + assistantName + &quot;.&quot;);&#10;        System.out.println(&quot;I was created in &quot; + birthYear + &quot;.&quot;);&#10;        System.out.println(&quot;Please, remind me your name.&quot;);&#10;    }&#10;&#10;    static void remindName() {&#10;        String name = scanner.nextLine();&#10;        System.out.println(&quot;What a great name you have, &quot; + name + &quot;!&quot;);&#10;    }&#10;&#10;    static void guessAge() {&#10;        System.out.println(&quot;Let me guess your age.&quot;);&#10;        System.out.println(&quot;Say me remainders of dividing your age by 3, 5 and 7.&quot;);&#10;        int rem3 = scanner.nextInt();&#10;        int rem5 = scanner.nextInt();&#10;        int rem7 = scanner.nextInt();&#10;        int age = (rem3 * 70 + rem5 * 21 + rem7 * 15) % 105;&#10;        System.out.println(&quot;Your age is &quot; + age + &quot;; that's a good time to start programming!&quot;);&#10;    }&#10;&#10;    static void count() {&#10;        System.out.println(&quot;Now I will prove to you that I can count to any number you want.&quot;);&#10;        int num = scanner.nextInt();&#10;        for (int i = 0; i &lt;= num; i++) {&#10;            System.out.printf(&quot;%d!\n&quot;, i);&#10;        }&#10;    }&#10;&#10;    static void test() {&#10;        System.out.println(&quot;Let's test your programming knowledge.&quot;);&#10;        // write your code here&#10;    }&#10;&#10;    static void end() {&#10;        System.out.println(&quot;Congratulations, have a nice day!&quot;); // Do not change this text&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/PersonalAssistantTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/PersonalAssistantTest.java" />
+                                <option name="text" value="import bot.SimpleBot;&#10;import org.hyperskill.hstest.v6.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v6.testcase.CheckResult;&#10;import org.hyperskill.hstest.v6.testcase.TestCase;&#10;&#10;import java.util.List;&#10;&#10;&#10;class Clue {&#10;    int age;&#10;    String name;&#10;    int count;&#10;&#10;    Clue(String name, int age, int count) {&#10;        this.age = age;&#10;        this.name = name;&#10;        this.count = count;&#10;    }&#10;}&#10;&#10;&#10;public class PersonalAssistantTest extends BaseStageTest&lt;Clue&gt; {&#10;&#10;    public PersonalAssistantTest() {&#10;        super(SimpleBot.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;Clue&gt;&gt; generate() {&#10;        String input = &quot;Marry\n1 0 5\n10&quot;;&#10;&#10;        for (int i = 1; i &lt; 9; i++) {&#10;            input += &quot;\n&quot; + i;&#10;        }&#10;&#10;        return List.of(&#10;            new TestCase&lt;Clue&gt;()&#10;                .setInput(input)&#10;                .setAttach(new Clue(&quot;Marry&quot;, 40, 10))&#10;        );&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, Clue clue) {&#10;&#10;        String[] lines = reply.trim().split(&quot;\n&quot;);&#10;&#10;        int length = 9 + clue.count + 1;&#10;&#10;        if (lines.length &lt;= length) {&#10;            return CheckResult.FALSE(&#10;                &quot;You should output at least &quot; + (length + 1) + &quot; lines &quot; +&#10;                &quot;(for the count number &quot; + clue.count +&quot;).\n&quot; +&#10;                &quot;Lines found: &quot; + lines.length + &quot;\n&quot; +&#10;                &quot;Your output:\n&quot; +&#10;                reply&#10;            );&#10;        }&#10;&#10;        String lineWithName = lines[3].toLowerCase();&#10;        String name = clue.name.toLowerCase();&#10;&#10;        if (!lineWithName.contains(name)) {&#10;            return CheckResult.FALSE(&#10;                &quot;The name was &quot; + clue.name + &quot;\n&quot; +&#10;                &quot;But the 4-th line was:\n&quot; +&#10;                &quot;\&quot;&quot; + lines[3] + &quot;\&quot;\n\n&quot; +&#10;                &quot;4-th line should contain a name of the user&quot;&#10;            );&#10;        }&#10;&#10;        String lineWithAge = lines[6].toLowerCase();&#10;        String age = Integer.toString(clue.age);&#10;&#10;        if (!lineWithAge.contains(age)) {&#10;            return CheckResult.FALSE(&#10;                &quot;Can't find a correct age &quot; +&#10;                &quot;in the last line of output! &quot; +&#10;                &quot;Maybe you calculated the age wrong?\n\n&quot; +&#10;                &quot;Your last line: \n&quot; + &quot;\&quot;&quot; + lines[6] + &quot;\&quot;&quot;&#10;            );&#10;        }&#10;&#10;        for (int i = 0; i &lt; clue.count + 1; i++) {&#10;            String numLine = lines[i + 8];&#10;            String actualNum = i + &quot;!&quot;;&#10;&#10;            if (!numLine.equals(actualNum)) {&#10;                return CheckResult.FALSE(&#10;                    &quot;Expected &quot; + (i+8) + &quot;-th line: \n&quot; +&#10;                    &quot;\&quot;&quot; + actualNum + &quot;\&quot;\n&quot; +&#10;                    &quot;Your &quot;+ (i+8) + &quot;-th line: \n&quot; +&#10;                    &quot;\&quot;&quot; + numLine + &quot;\&quot;&quot;&#10;                );&#10;            }&#10;        }&#10;&#10;        String lastLine = lines[lines.length - 1];&#10;&#10;        if (!lastLine.equals(&quot;Congratulations, have a nice day!&quot;)) {&#10;            return CheckResult.FALSE(&#10;                &quot;Your last line should be:\n&quot; +&#10;                &quot;\&quot;Congratulations, have a nice day!\&quot;\n&quot; +&#10;                &quot;Found:\n&quot; +&#10;                &quot;\&quot;&quot; + lastLine + &quot;\&quot;&quot;&#10;            );&#10;        }&#10;&#10;        return CheckResult.TRUE;&#10;    }&#10;&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </EduTask>
+                  </list>
+                </option>
+              </FrameworkLesson>
+              <Lesson>
+                <option name="customPresentableName" />
+                <option name="id" value="0" />
+                <option name="index" value="2" />
+                <option name="name" value="Problems" />
+                <option name="updateDate" value="0" />
+                <option name="unitId" value="0" />
+                <option name="items">
+                  <list>
+                    <CodeTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;b&gt;The (un)-ordered sequence&lt;/b&gt; &lt;a class=&quot;right&quot; href=&quot;https://hyperskill.org/learn/step/2734&quot;&gt;Open on Hyperskill&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;html&gt;&#10; &lt;head&gt;&lt;/head&gt;&#10; &lt;body&gt;&#10;  &lt;p&gt;[ALERT-warning]Typical task for a job interview.[/ALERT]&lt;/p&gt; &#10;  &lt;p&gt;Write a program that reads a sequence of integer numbers and outputs &lt;strong&gt;true&lt;/strong&gt; if the sequence is ordered (in ascending or descending order), otherwise, &lt;strong&gt;false&lt;/strong&gt;. Keep in mind, if a number has the same value as the following number, it does not break the order.&lt;/p&gt; &#10;  &lt;p&gt;The sequence ends with 0. Do not consider this number as a part of the sequence. The sequence always has at least one number (excluding 0).&lt;/p&gt;&#10; &lt;/body&gt;&#10;&lt;/html&gt;&lt;br&gt;&lt;b&gt;Sample Input:&lt;/b&gt;&lt;br&gt;9 8 7 6 5 4 3 2 1 0&lt;br&gt;&lt;b&gt;Sample Output:&lt;/b&gt;&lt;br&gt;true&lt;br&gt;&lt;br&gt;&lt;b&gt;Sample Input:&lt;/b&gt;&lt;br&gt;1 2 3 3 9 0&lt;br&gt;&lt;b&gt;Sample Output:&lt;/b&gt;&lt;br&gt;true&lt;br&gt;&lt;br&gt;&lt;b&gt;Sample Input:&lt;/b&gt;&lt;br&gt;1 2 5 5 2 3 0&lt;br&gt;&lt;b&gt;Sample Output:&lt;/b&gt;&lt;br&gt;false&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Memory limit: 256 Mb&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Time limit: 5s&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;a href=&quot;https://hyperskill.org/learn/step/3507&quot;&gt;Show topic summary&lt;/a&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/learn/step/2734" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="2734" />
+                      <option name="index" value="1" />
+                      <option name="name" value="The (un)-ordered sequence" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Failed" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/Main.java" />
+                                <option name="text" value="class Main {&#10;    public static void main(String[] args) {&#10;        // put your code here&#10;    }&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </CodeTask>
+                    <CodeTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;b&gt;The integer barrier&lt;/b&gt; &lt;a class=&quot;right&quot; href=&quot;https://hyperskill.org/learn/step/2731&quot;&gt;Open on Hyperskill&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;html&gt;&#10; &lt;head&gt;&lt;/head&gt;&#10; &lt;body&gt;&#10;  &lt;p&gt;Write a program that reads a sequence of integer numbers in a loop and adds up all numbers. If a new number is equal to 0, the program must stop the loop and output the accumulated sum. When the sum is equal or exceeded &lt;strong&gt;1000 (the barrier)&lt;/strong&gt;, the program should also stop and output the value equal to &lt;strong&gt;sum - 1000&lt;/strong&gt;.&lt;/p&gt; &#10;  &lt;p&gt;Note, the input can contain extra numbers. Just ignore them.&lt;/p&gt;&#10; &lt;/body&gt;&#10;&lt;/html&gt;&lt;br&gt;&lt;b&gt;Sample Input:&lt;/b&gt;&lt;br&gt;800&lt;br&gt;101&lt;br&gt;102&lt;br&gt;300&lt;br&gt;0&lt;br&gt;&lt;b&gt;Sample Output:&lt;/b&gt;&lt;br&gt;3&lt;br&gt;&lt;br&gt;&lt;b&gt;Sample Input:&lt;/b&gt;&lt;br&gt;103&lt;br&gt;105&lt;br&gt;109&lt;br&gt;0&lt;br&gt;1000&lt;br&gt;&lt;b&gt;Sample Output:&lt;/b&gt;&lt;br&gt;317&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Memory limit: 256 Mb&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Time limit: 5s&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;a href=&quot;https://hyperskill.org/learn/step/3507&quot;&gt;Show topic summary&lt;/a&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/learn/step/2731" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="2731" />
+                      <option name="index" value="2" />
+                      <option name="name" value="The integer barrier" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/Main.java" />
+                                <option name="text" value="class Main {&#10;    public static void main(String[] args) {&#10;        // put your code here&#10;    }&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </CodeTask>
+                    <CodeTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;b&gt;The sign of a number&lt;/b&gt; &lt;a class=&quot;right&quot; href=&quot;https://hyperskill.org/learn/step/2730&quot;&gt;Open on Hyperskill&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;html&gt;&#10; &lt;head&gt;&lt;/head&gt;&#10; &lt;body&gt;&#10;  &lt;p&gt;Write a method with the name &lt;code&gt;sign&lt;/code&gt; that takes an int number and checks whether the number is negative, positive or zero. The method should return -1, +1 or 0 respectively.&lt;/p&gt;&#10; &lt;/body&gt;&#10;&lt;/html&gt;&lt;br&gt;&lt;b&gt;Sample Input:&lt;/b&gt;&lt;br&gt;11&lt;br&gt;&lt;b&gt;Sample Output:&lt;/b&gt;&lt;br&gt;1&lt;br&gt;&lt;br&gt;&lt;b&gt;Sample Input:&lt;/b&gt;&lt;br&gt;0&lt;br&gt;&lt;b&gt;Sample Output:&lt;/b&gt;&lt;br&gt;0&lt;br&gt;&lt;br&gt;&lt;b&gt;Sample Input:&lt;/b&gt;&lt;br&gt;-3&lt;br&gt;&lt;b&gt;Sample Output:&lt;/b&gt;&lt;br&gt;-1&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Memory limit: 256 Mb&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Time limit: 5s&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;a href=&quot;https://hyperskill.org/learn/step/3590&quot;&gt;Show topic summary&lt;/a&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/learn/step/2730" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="2730" />
+                      <option name="index" value="3" />
+                      <option name="name" value="The sign of a number" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/Main.java" />
+                                <option name="text" value="import java.util.Scanner;&#10;&#10;public class Main {&#10;&#10;    public static int sign(int number) {&#10;        // write your code here&#10;    }&#10;&#10;    /* Do not change code below */&#10;    public static void main(String[] args) {&#10;        final Scanner scanner = new Scanner(System.in);&#10;        final int n = scanner.nextInt();&#10;        System.out.println(sign(n));&#10;    }&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </CodeTask>
+                    <CodeTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;b&gt;Division&lt;/b&gt; &lt;a class=&quot;right&quot; href=&quot;https://hyperskill.org/learn/step/2725&quot;&gt;Open on Hyperskill&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;html&gt;&#10; &lt;head&gt;&lt;/head&gt;&#10; &lt;body&gt;&#10;  &lt;p&gt;Given the method named &lt;code&gt;divide&lt;/code&gt; that takes two long numbers and returns a double value.&lt;/p&gt; &#10;  &lt;p&gt;Write a body of the method. It should return the result of the division of&amp;nbsp;the first argument by the second one. It's guaranteed the second argument is not equal to zero.&lt;/p&gt;&#10; &lt;/body&gt;&#10;&lt;/html&gt;&lt;br&gt;&lt;b&gt;Sample Input:&lt;/b&gt;&lt;br&gt;500000000000 200000000000&lt;br&gt;&lt;b&gt;Sample Output:&lt;/b&gt;&lt;br&gt;2.5&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Memory limit: 256 Mb&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Time limit: 5s&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;a href=&quot;https://hyperskill.org/learn/step/3590&quot;&gt;Show topic summary&lt;/a&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/learn/step/2725" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="2725" />
+                      <option name="index" value="4" />
+                      <option name="name" value="Division" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/Main.java" />
+                                <option name="text" value="import java.util.Scanner;&#10;&#10;public class Main {&#10;&#10;    public static double divide(long a, long b) {&#10;        // write your code here&#10;    }&#10;&#10;    /* Do not change code below */&#10;    public static void main(String args[]) {&#10;        final Scanner scanner = new Scanner(System.in);&#10;        final long a = scanner.nextLong();&#10;        final long b = scanner.nextLong();&#10;        System.out.println(divide(a, b));&#10;    }&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </CodeTask>
+                    <CodeTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;b&gt;Reversing strings&lt;/b&gt; &lt;a class=&quot;right&quot; href=&quot;https://hyperskill.org/learn/step/2244&quot;&gt;Open on Hyperskill&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;html&gt;&#10; &lt;head&gt;&lt;/head&gt;&#10; &lt;body&gt;&#10;  &lt;p&gt;&lt;b&gt;Reversing strings&lt;/b&gt;&lt;/p&gt;&#10;  &lt;p&gt;Implement a method for reversing a given array of strings. The array can have any size.&lt;/p&gt;&#10;  &lt;p&gt;The method may reverse and return the existing array or returns a new array.&lt;/p&gt;&#10;  &lt;p&gt;&lt;b&gt;Example:&lt;/b&gt; the sequence of strings &quot;java&quot;, &quot;programming&quot;, &quot;methods&quot; is reversed as &quot;methods&quot;, &quot;programming&quot;, &quot;java&quot;.&lt;/p&gt;&#10; &lt;/body&gt;&#10;&lt;/html&gt;&lt;br&gt;&lt;b&gt;Sample Input:&lt;/b&gt;&lt;br&gt;java programming methods&lt;br&gt;&lt;b&gt;Sample Output:&lt;/b&gt;&lt;br&gt;methods programming java&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Memory limit: 256 Mb&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Time limit: 5s&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;a href=&quot;https://hyperskill.org/learn/step/3590&quot;&gt;Show topic summary&lt;/a&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/learn/step/2244" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="2244" />
+                      <option name="index" value="5" />
+                      <option name="name" value="Reversing strings" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/Main.java" />
+                                <option name="text" value="import java.util.*;&#10;&#10;public class Main {&#10;&#10;    public static String[] reverse(String... words) {&#10;        // write your code here&#10;    }&#10;&#10;    /* Do not change code below */&#10;    public static void main(String[] args) {&#10;        Scanner scanner = new Scanner(System.in);&#10;        String[] words = scanner.nextLine().split(&quot;\\s+&quot;);&#10;        String[] reversed = reverse(words);&#10;        Arrays.stream(reversed).forEach(e -&gt; System.out.print(e + &quot; &quot;));&#10;    }&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </CodeTask>
+                    <CodeTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;b&gt;The minimum value of an array&lt;/b&gt; &lt;a class=&quot;right&quot; href=&quot;https://hyperskill.org/learn/step/2135&quot;&gt;Open on Hyperskill&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;html&gt;&#10; &lt;head&gt;&lt;/head&gt;&#10; &lt;body&gt;&#10;  Write a program that reads an array of integers and finds the minimum value of the array.&#10;  &lt;br&gt;&#10;  &lt;br&gt;&#10;  &lt;b&gt;Input data format&lt;/b&gt;&#10;  &lt;br&gt;&#10;  &lt;br&gt;The first line contains the size of an array.&#10;  &lt;br&gt;The second line contains elements of the array separated by spaces.&#10;  &lt;br&gt;&#10;  &lt;br&gt;&#10;  &lt;b&gt;Output data format&lt;/b&gt;&#10;  &lt;br&gt;&#10;  &lt;br&gt;&#10;  &lt;div&gt;&#10;   An integer number representing the minimum in the input array.&#10;  &lt;/div&gt;&#10; &lt;/body&gt;&#10;&lt;/html&gt;&lt;br&gt;&lt;b&gt;Sample Input:&lt;/b&gt;&lt;br&gt;5&lt;br&gt;5 1 4 2 3&lt;br&gt;&lt;br&gt;&lt;b&gt;Sample Output:&lt;/b&gt;&lt;br&gt;1&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Memory limit: 256 Mb&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Time limit: 5s&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;a href=&quot;https://hyperskill.org/learn/step/3602&quot;&gt;Show topic summary&lt;/a&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/learn/step/2135" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="2135" />
+                      <option name="index" value="6" />
+                      <option name="name" value="The minimum value of an array" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/Main.java" />
+                                <option name="text" value="class Main {&#10;    public static void main(String[] args) {&#10;        // put your code here&#10;    }&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </CodeTask>
+                    <CodeTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;b&gt;Two numbers never occur to each other&lt;/b&gt; &lt;a class=&quot;right&quot; href=&quot;https://hyperskill.org/learn/step/2130&quot;&gt;Open on Hyperskill&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;html&gt;&#10; &lt;head&gt;&lt;/head&gt;&#10; &lt;body&gt;&#10;  &lt;div&gt;&#10;   Write a program that reads an array of integers and two numbers &#10;   &lt;b&gt;n&lt;/b&gt; and &#10;   &lt;b&gt;m&lt;/b&gt;. The program must check that &#10;   &lt;b&gt;n&lt;/b&gt; and &#10;   &lt;b&gt;m&lt;/b&gt; never occur next to each other (in any order) in the array.&#10;  &lt;/div&gt;&#10;  &lt;div&gt;&#10;   &lt;br&gt;&#10;  &lt;/div&gt;&#10;  &lt;div&gt;&#10;   &lt;b&gt;Input data format&lt;/b&gt;&#10;  &lt;/div&gt;&#10;  &lt;div&gt;&#10;   &lt;br&gt;&#10;  &lt;/div&gt;&#10;  &lt;div&gt;&#10;   The first line contains the size of an array.&#10;  &lt;/div&gt;&#10;  &lt;div&gt;&#10;   The second line contains elements of the array.&#10;  &lt;/div&gt;&#10;  &lt;div&gt;&#10;   The third line contains two integer numbers &#10;   &lt;b&gt;n&lt;/b&gt; and &#10;   &lt;b&gt;m&lt;/b&gt;.&#10;  &lt;/div&gt;&#10;  &lt;div&gt;&#10;   All numbers in the same line are separated by the space character.&#10;  &lt;/div&gt;&#10;  &lt;div&gt;&#10;   &lt;br&gt;&#10;  &lt;/div&gt;&#10;  &lt;div&gt;&#10;   &lt;b&gt;Output data format&lt;/b&gt;&#10;  &lt;/div&gt;&#10;  &lt;div&gt;&#10;   &lt;br&gt;&#10;  &lt;/div&gt;&#10;  &lt;div&gt;&#10;   The result is a single value - &#10;   &lt;b&gt;true&lt;/b&gt;, if &#10;   &lt;b&gt;n &lt;/b&gt;and &#10;   &lt;b&gt;m&lt;/b&gt; never occur to each other, otherwise, &#10;   &lt;b&gt;false&lt;/b&gt;.&#10;  &lt;/div&gt;&#10; &lt;/body&gt;&#10;&lt;/html&gt;&lt;br&gt;&lt;b&gt;Sample Input:&lt;/b&gt;&lt;br&gt;3&lt;br&gt;1 2 3&lt;br&gt;2 3&lt;br&gt;&lt;br&gt;&lt;b&gt;Sample Output:&lt;/b&gt;&lt;br&gt;false&lt;br&gt;&lt;br&gt;&lt;b&gt;Sample Input:&lt;/b&gt;&lt;br&gt;3&lt;br&gt;1 2 3&lt;br&gt;3 4&lt;br&gt;&lt;br&gt;&lt;b&gt;Sample Output:&lt;/b&gt;&lt;br&gt;true&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Memory limit: 256 Mb&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Time limit: 5s&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;a href=&quot;https://hyperskill.org/learn/step/3602&quot;&gt;Show topic summary&lt;/a&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/learn/step/2130" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="2130" />
+                      <option name="index" value="7" />
+                      <option name="name" value="Two numbers never occur to each other" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/Main.java" />
+                                <option name="text" value="class Main {&#10;    public static void main(String[] args) {&#10;        // put your code here&#10;    }&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </CodeTask>
+                    <CodeTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;b&gt;The longest ascending sequence&lt;/b&gt; &lt;a class=&quot;right&quot; href=&quot;https://hyperskill.org/learn/step/2138&quot;&gt;Open on Hyperskill&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;html&gt;&#10; &lt;head&gt;&lt;/head&gt;&#10; &lt;body&gt;&#10;  &lt;div&gt;&#10;   Write a program that reads an array of ints and outputs the length of the longest sequence in ascending order. Elements of the sequence must go one after another.&#10;  &lt;/div&gt;&#10;  &lt;div&gt;&#10;   &lt;br&gt;&#10;  &lt;/div&gt;&#10;  &lt;div&gt;&#10;   &lt;b&gt;Input data format&lt;/b&gt;&#10;   &lt;br&gt;&#10;   &lt;br&gt;The first line contains the size of an array.&#10;   &lt;br&gt;The second line contains elements of the array separated by spaces.&#10;   &lt;br&gt;&#10;  &lt;/div&gt;&#10;  &lt;div&gt;&#10;   &lt;br&gt;&#10;  &lt;/div&gt;&#10;  &lt;div&gt;&#10;   &lt;b&gt;Example&lt;/b&gt;&#10;  &lt;/div&gt;&#10;  &lt;div&gt;&#10;   &lt;br&gt;&#10;  &lt;/div&gt;&#10;  &lt;div&gt;&#10;   The input array is &#10;   &lt;code class=&quot;java&quot;&gt;1 2 4 1 2 3 5 7 4 3&lt;/code&gt;. In this case, the length of the longest sequence in ascending order is &#10;   &lt;code class=&quot;java&quot;&gt;5&lt;/code&gt;. It includes the following elements: &#10;   &lt;code class=&quot;java&quot;&gt;1 2 3 5 7&lt;/code&gt;.&#10;  &lt;/div&gt;&#10; &lt;/body&gt;&#10;&lt;/html&gt;&lt;br&gt;&lt;b&gt;Sample Input:&lt;/b&gt;&lt;br&gt;10&lt;br&gt;1 2 4 1 2 3 5 7 4 3&lt;br&gt;&lt;br&gt;&lt;b&gt;Sample Output:&lt;/b&gt;&lt;br&gt;5&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Memory limit: 256 Mb&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Time limit: 5s&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;a href=&quot;https://hyperskill.org/learn/step/3602&quot;&gt;Show topic summary&lt;/a&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/learn/step/2138" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="2138" />
+                      <option name="index" value="8" />
+                      <option name="name" value="The longest ascending sequence" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/Main.java" />
+                                <option name="text" value="class Main {&#10;    public static void main(String[] args) {&#10;        // put your code here&#10;    }&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </CodeTask>
+                    <CodeTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;b&gt;Spiral&lt;/b&gt; &lt;a class=&quot;right&quot; href=&quot;https://hyperskill.org/learn/step/1931&quot;&gt;Open on Hyperskill&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;html&gt;&#10; &lt;head&gt;&lt;/head&gt;&#10; &lt;body&gt;&#10;  &lt;p&gt;Output the matrix of size &lt;span class=&quot;math-tex&quot;&gt;\( n \times n \)&lt;/span&gt;, filled by the integers from &lt;span class=&quot;math-tex&quot;&gt;\( 1 \)&lt;/span&gt; to &lt;span class=&quot;math-tex&quot;&gt;\( n^2 \)&lt;/span&gt; in a spiral, coming from the top left corner and twisted clockwise, as shown in the example (here &lt;span class=&quot;math-tex&quot;&gt;\( n=5 \)&lt;/span&gt;).&lt;/p&gt;&#10; &lt;/body&gt;&#10;&lt;/html&gt;&lt;br&gt;&lt;b&gt;Sample Input:&lt;/b&gt;&lt;br&gt;5&lt;br&gt;&lt;b&gt;Sample Output:&lt;/b&gt;&lt;br&gt;1 2 3 4 5&lt;br&gt;16 17 18 19 6&lt;br&gt;15 24 25 20 7&lt;br&gt;14 23 22 21 8&lt;br&gt;13 12 11 10 9&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Memory limit: 256 Mb&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Time limit: 5s&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;a href=&quot;https://hyperskill.org/learn/step/1933&quot;&gt;Show topic summary&lt;/a&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/learn/step/1931" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="1931" />
+                      <option name="index" value="9" />
+                      <option name="name" value="Spiral" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Unchecked" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/Main.java" />
+                                <option name="text" value="class Main {&#10;    public static void main(String[] args) {&#10;        // put your code here&#10;    }&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </CodeTask>
+                  </list>
+                </option>
+              </Lesson>
+            </list>
+          </option>
+        </HyperskillCourse>
+      </option>
+    </StudyTaskManager>
+  </component>
+</project>
